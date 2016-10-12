@@ -1,0 +1,17 @@
+{
+  "name": "web-server",
+  "version": "0.0.1",
+  "description": "web server with express and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webserver",
+    "express",
+    "nodejs",
+    "js"
+  ],
+  "author": "Maicon Giovani (Doomster)",
+  "license": "ISC"
+}
