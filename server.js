@@ -8,7 +8,7 @@ var middleware = {
       next();
   },
   logger: function (req, res, next) {
-    console.log(req.method);
+    console.log(req.method + " " + req.originalUrl);
     next();
   }
 };
