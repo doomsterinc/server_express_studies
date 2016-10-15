@@ -1,6 +1,6 @@
-# Stutys in Express Server
+# Studies in Express Server
 
-[Release Status](https://github.com/doomsterinc/weatherin/releases)
+[Release Status]()
 
 > Repository for tests and studies of development and deploy Express Server
 
